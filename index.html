@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taekwondo World Dicoding</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style/app.css">
+</head>
+<body>
+    <header class="navbar-container">
+        <div class="logo">
+            <img src="image/logo.png" alt="logo" height="100" />
+        </div>
+        <nav class="nav-list">
+            <ul>
+                <li><a href="#home">Beranda</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#about">About Me</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <section id="home">
+                <div class="content">
+                    <div class="content-description">
+                        <h1 class="title">Pengembangan Diri Melalui Taekwondo</h1>
+                        <p>Menyoroti bagaimana latihan taekwondo dapat membentuk karakter, meningkatkan konsentrasi, dan membangun kepercayaan diri serta Tumbuh Karakter, Tingkatkan Konsentrasi, Bangun Kepercayaan Diri, Capai Prestasi Unggul Melalui Latihan Taekwondo yang Konsisten</p>
+                        <a href="https://www.instagram.com/mikroskil_taekwondo_club?igsh=MWp0YXZ6Mm1zMmR4NQ==">
+                            <button>Join</button>
+                        </a>
+                        
+                    </div>
+                    <div class="content-image">
+                        <img src="image/atlet.png" alt="atlet" />
+                    </div>
+                </div>
+            </section>
+            <h1 id="gallery" >Gallery</h1>
+            <section class="gallery-all">
+               </div>
+                <div class="gallery-card">
+                    <img src="image/mikroskl.jpg" alt="mikroskl">
+                    <div class="gallery-card-content">
+                        <h3>Winner Mikroskil</h3>
+                        <p>Kejuaraan The East Indonesia</p>
+                    </div>
+                </div>
+                <div class="gallery-card">
+                    <img src="image/usu.jpg" alt="usu">
+                    <div class="gallery-card-content">
+                        <h3>Winner USU</h3>
+                        <p>Kejuaran Usu Games Champions</p>
+                    </div>
+                </div>
+                <div class="gallery-card">
+                    <img src="image/unika.jpg" alt="unika">
+                    <div class="gallery-card-content">
+                        <h3>Winner Unika</h3>
+                        <p>Kejuaran Unika ST Thomas Champions II</p>
+                    </div>
+                </div>
+                <div class="gallery-card">
+                    <img src="image/makrab.jpg" alt="makrab">
+                    <div class="gallery-card-content">
+                        <h3>Makrab Organization</h3>
+                        <p>Kegiatan Makrab Taekwondo Mikroskil</p>
+                    </div>
+                </div>
+                
+            </section>
+            <section>
+                    <form id="contact">
+                        <h1 class="title text-center mb-4">Contact Us</h1>
+                
+                            <div class="form-group position-relative">
+                                <label for="formName" class="d-block">
+                                    <i class="icon" data-feather="user"></i>
+                                </label>
+                                <input type="text" id="formName" class="form-control form-control-lg thick" placeholder="Name">
+                            </div>
+                <br>
+                            <!-- E-mail -->
+                            <div class="form-group position-relative">
+                                <label for="formEmail" class="d-block">
+                                    <i class="icon" data-feather="mail"></i>
+                                </label>
+                                <input type="email" id="formEmail" class="form-control form-control-lg thick" placeholder="E-mail">
+                            </div>
+                <br>
+                            <!-- Message -->
+                            <div class="form-group message">
+                                <textarea id="formMessage" class="form-control form-control-lg" rows="7" placeholder="Mesagge"></textarea>
+                            </div>
+                        <br>
+                            <!-- Submit btn -->
+                            <div class="text-center">
+                                <button type="submit" class="btn btn-primary" tabIndex="-1">Send message</button>
+                            </div>
+                    </form>
+                    
+                </div>
+            </section>
+        </article>
+        <aside>
+            <section id="about">
+                <h1 class="heading"> About Me </h1>
+                <div class="box-container">
+                    <div class="box">
+                        <img src="image/foto.jpg" alt="">
+                        <h3>Rotua Eka Wati Br. Sitorus</h3>
+                        <p>Front End & Back End Student at Dicoding</p>
+                        <p>I'm from Medan, North Sumatra, Studying Computer Engineering at Mikroskil University</p>
+                    </div>
+                </div>
+            </section>
+        </aside>
+    </main>
+
+    <footer id="about">
+        <div class="share">
+            <a href="https://www.instagram.com/rotua_strs05?igsh=aTV1dHVqa3Z4bWcz" class="btn">instagram</a>
+            <a href="http://127.0.0.1:5500/index.html" class="btn">Personal Web</a>
+            <a href="https://www.linkedin.com/in/rotua-eka-wati-br-sitorus-5896a3280/" class="btn">linkedin</a>
+        </div>
+        <h1 class="credit"> created by <span> Rotua Eka Wati Br. Sitorus </span> | University Mikroskil </h1>
+    </footer>
+    
+    <button id="topButton" onclick="scrollToTop()">Back to Top</button>
+    <script>
+        window.addEventListener("scroll", function() {
+            var header = document.querySelector(".navbar-container");
+            header.classList.toggle("sticky", window.scrollY > 0);
+        });
+        var buttons = document.querySelectorAll("button");
+
+        buttons.forEach(button => {
+            button.addEventListener("mouseenter", function() {
+                this.style.transform = "scale(1.1)";
+            });
+
+            button.addEventListener("mouseleave", function() {
+                this.style.transform = "scale(1)";
+            });
+        });
+        window.addEventListener("scroll", function() {
+            var topButton = document.getElementById("topButton");
+            if (window.scrollY > 300) {
+                topButton.style.display = "block";
+            } else {
+                topButton.style.display = "none";
+            }
+        });
+
+        function scrollToTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: "smooth"
+            });
+        }
+    </script>
+</body>
+</html>
