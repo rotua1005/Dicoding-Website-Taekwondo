@@ -1,13 +1,12 @@
-![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/c57dc2f2-7692-4b35-9d7b-62eb419ec2fe)![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/c416b081-979b-40b4-99f8-7496f76b3d17)  <h1>Submission Belajar membuat website untuk pemula dicoding</h1>
-# [melajah.id](https://melajah.id)
+<h1>Submission Belajar membuat website untuk pemula dicoding</h1>
 Project ini adalah Submission dari materi [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123).
 
-### Preview
-<img src=/preview1.png">
+### Screenshot
+![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/ceff0e34-c7ae-4b5e-94a5-f98f2233327f)
+
 <img src="screenshot/preview2.png" width=256>
 
-## Submission
-Untuk bisa lulus dan mendapatkan sertifikat dari akademi ini, Anda harus mengerjakan tugas Halaman Website sesuai kriteria lengkap di bawah. Tim reviewer akan memeriksa pekerjaan Anda dan memberikan review pada proyek yang Anda buat.
+
 
 ### Kriteria
 #### Berikut kriteria submission yang harus Anda penuhi:
