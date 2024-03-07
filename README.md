@@ -14,7 +14,7 @@ Project ini adalah Submission dari materi [Belajar Dasar Pemrograman Web] (https
 ### Screenshot
 ![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/ceff0e34-c7ae-4b5e-94a5-f98f2233327f)
 ![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/9a5e08de-73eb-48c4-9623-465316323cbb)
-![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/e9c66158-952f-4442-a678-97dcf587e719)
+![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/09853230-c994-4ff1-94f7-1d1a9ba63590)
 ![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/7e21184c-9584-418a-b369-69a0b0ae63b3)
 
 <h3 align="left">Languages and Tools:</h3>
