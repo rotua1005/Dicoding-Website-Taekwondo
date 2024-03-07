@@ -1,12 +1,5 @@
 <h1>Submission Belajar membuat website untuk pemula dicoding</h1>
-Project ini adalah Submission dari materi [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123).
-
-### Screenshot
-![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/ceff0e34-c7ae-4b5e-94a5-f98f2233327f)
-
-<img src="screenshot/preview2.png" width=256>
-
-
+Project ini adalah Submission dari materi [Belajar Dasar Pemrograman Web] (https://www.dicoding.com/academies/123).
 
 ### Kriteria
 #### Berikut kriteria submission yang harus Anda penuhi:
@@ -17,16 +10,18 @@ Project ini adalah Submission dari materi [Belajar Dasar Pemrograman Web](https:
 4. Menyusun layout dengan menggunakan float atau flexbox
 5. Tema yang ditampilkan bebas, namun semakin detail dan lengkap website Anda maka nilai submission bisa lebih tinggi
   
-#### Berikut sketsa dari struktur website yang bisa dijadikan referensi untuk mengerjakan submission, namun tidak diwajibkan asalkan memenuhi kriteria submission:
-<img src="https://dicodingacademy.blob.core.windows.net/academies/201912201353083e09e5a62ad3d25699611878328847ee.png">
 
----
+### Screenshot
+![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/ceff0e34-c7ae-4b5e-94a5-f98f2233327f)
+![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/9a5e08de-73eb-48c4-9623-465316323cbb)
+![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/e9c66158-952f-4442-a678-97dcf587e719)
+![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/7e21184c-9584-418a-b369-69a0b0ae63b3)
 
-## Harap diperhatikan!
-Bagi teman-teman yang masih mengikuti kelas dari dicoding, [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123). Silahkan gunakan source ini sebagai bahan referensi, tapi TIDAK untuk disalin secara utuh tanpa tau cara implementasinya.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-Ayolah kawan.. Kalian sudah bayar mahal untuk ikut kelas ini, kalian harus dapat ilmunya. Percuma kalian dapat sertifikat dari dicoding kalau di kemudian hari kalian tidak mendapatkan ilmunya dari sini.
+### Author
+<ol>
+  <li>Rotua Eka Wati Br. Sitorus</li>
+</ol>
 
-Semangat kawan.. Perjalanan masih panjang. Lakukan yang terbaik yang kalian bisa. Silahkan tanya saya jika ada yang kurang dimengerti. Kalau saya bisa bantu, pasti saya dampingi.
-
-Mari kita maju bersama-sama..
