@@ -1,9 +1,9 @@
-  <h1>Submission Belajar membuat website untuk pemula dicoding</h1>
+![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/c57dc2f2-7692-4b35-9d7b-62eb419ec2fe)![image](https://github.com/rotua1005/Web-Dasar-Dicoding-Web-Taekwondo/assets/129968626/c416b081-979b-40b4-99f8-7496f76b3d17)  <h1>Submission Belajar membuat website untuk pemula dicoding</h1>
 # [melajah.id](https://melajah.id)
 Project ini adalah Submission dari materi [Belajar Dasar Pemrograman Web](https://www.dicoding.com/academies/123).
 
 ### Preview
-<img src="screenshot/preview1.png">
+<img src=/preview1.png">
 <img src="screenshot/preview2.png" width=256>
 
 ## Submission
